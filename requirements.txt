@@ -1,0 +1,8 @@
+numpy<2.3.0
+opencv_python_headless==4.12.0.88
+Pillow==12.1.0
+pypylon==4.2.0
+PyQt5==5.15.11
+pyqt5_sip==12.17.2
+pyqtgraph==0.14.0
+pyserial==3.5

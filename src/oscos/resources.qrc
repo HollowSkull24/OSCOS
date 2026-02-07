@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="AppIcons">
+    <file>resources/icons/OSCOS_icon.ico</file>
+    <file>resources/icons/OSCOS_icon.png</file>
+  </qresource>
+  <qresource prefix="ButtonIcons">
+    <file>resources/icons/folder.png</file>
+    <file>resources/icons/refresh.png</file>
+  </qresource>
+  <qresource prefix="Images">
+    <file>resources/icons/utp_logo.png</file>
+  </qresource>
+</RCC>
